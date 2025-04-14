@@ -1,0 +1,12 @@
+{
+  "name": "firebase-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "firebase-functions": "^4.0.0",
+    "sqlite3": "^5.0.0",
+    "web-push": "^3.4.5"
+  }
+}
